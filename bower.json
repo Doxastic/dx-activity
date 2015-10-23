@@ -1,0 +1,26 @@
+{
+  "name": "dx-activity",
+  "description": "",
+  "main": "dist/dx-activity.js",
+  "authors": [
+    "James Snowden"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "doxastic"
+  ],
+  "homepage": "https://github.com/Doxastic/dx-activity",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
